@@ -1,0 +1,20 @@
+var imgs = [
+    "images/pic01.JPG",
+    "images/pic02.JPG",
+    "images/pic03.JPG",
+    "images/pic04.JPG",
+    "images/pic05.JPG",
+    "images/pic06.jpg",
+    "images/pic07.JPG",
+    "images/pic08.JPG",
+    "images/pic09.jpg",
+    "images/pic10.JPG",
+    "images/pic11.JPG",
+    "images/pic12.jpg",
+    "images/pic13.JPG",
+    "images/pic14.jpg",
+    "images/pic15.JPG",
+    "images/pic16.JPG",
+    "images/pic17.JPG",
+    "images/pic18.jpg"
+];

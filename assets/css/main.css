@@ -967,6 +967,7 @@
 	#preview {
 		position: relative;
 		padding: 1em;
+		background-color: #ffe3fa;
 	}
 
 		#preview .inner {
@@ -1454,7 +1455,7 @@
 				width: 50%;
 				text-align: left;
 				color: rgba(255, 255, 255, 0.75);
-				padding: 2em;
+				padding: 1em;
 				display: inline-block;
 			}
 
@@ -1521,3 +1522,13 @@
 				}
 
 		}
+
+.img-details{
+	
+}
+
+.text-wpp{
+	font-size: 22px;
+	display: inline-block;
+	
+}
